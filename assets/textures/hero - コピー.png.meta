@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a0f4ffdd-7cab-40d8-970f-c78ff1fa7fe0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "hero - コピー": {
+      "ver": "1.0.3",
+      "uuid": "7db28c9f-c143-4941-82d9-9ab95b619a64",
+      "rawTextureUuid": "a0f4ffdd-7cab-40d8-970f-c78ff1fa7fe0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 506,
+      "height": 50,
+      "rawWidth": 520,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
